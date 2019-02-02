@@ -1,0 +1,57 @@
+body {
+	border : 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	background-color: #f0f0f0;
+ 	float: center;
+}
+
+h1 {
+	font-family: Roboto Slab;
+	color: black;
+	text-align: center;
+}
+
+hr { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+img {
+	width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.texto{
+	font-size: 1.1rem;
+	font-family: Dosis;
+	font-weight: 700;
+}
+.nome {
+	border-left: 4px solid red;
+	padding-left: 5px;
+	border-bottom: 2px;
+	font-family: Roboto Slab;
+	font-size: 2.0rem;
+	margin-bottom: 5px;
+}
+.curso {
+	font-family: Roboto Slab;
+	border-left: 4px solid red;
+	padding-left: 5px;
+	border-bottom: 2px;
+	font-size: 1.5rem;
+	margin-top: 5px;
+	margin-left: 7px;
+	margin-bottom: 10px;
+
+}
